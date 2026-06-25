@@ -1,4 +1,4 @@
-## 12-to-5V-DC-PS 
+## 12-5V DC Power Supply
 ### Overview
    This circuit converts an unregulated 12V DC input into a regulated 5V DC output using a 7805 linear voltage regulator. The 7805 is a 3 terminal IC that maintains a constant 5V output even if input voltage or load current varies. I/P capacitor C1 noise/ripples from the 12V source while output capacitor C2 stabilizes the 5V and improves transient response. LED acts as a power indicator. This design is simple,cheap and reliable for low-current 5V circuits.
 ### Working
